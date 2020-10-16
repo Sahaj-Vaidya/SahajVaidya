@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mediaelement" level="application" />
+    <orderEntry type="library" name="academicons" level="application" />
   </component>
 </module>
